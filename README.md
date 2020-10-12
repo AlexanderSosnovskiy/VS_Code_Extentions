@@ -1,3 +1,3 @@
 # VS Code Extentions
 
-![extentions](https://github.com/AlexanderSosnovskiy/[reponame]/blob/[branch]/image.jpg?raw=true)
+![extentions](https://github.com/AlexanderSosnovskiy/VS_Code_Extentions/blob/main/extensions.png?raw=true)
